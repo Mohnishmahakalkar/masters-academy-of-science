@@ -17,6 +17,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: github-pages
     steps:
       - uses: actions/checkout@v4
 
@@ -30,14 +31,6 @@ jobs:
         env:
           VITE_ADMIN_PASSWORD: ${{ secrets.VITE_ADMIN_PASSWORD }}
           VITE_BASE: ${{ vars.VITE_BASE }}
-      - name: Verify VITE_ADMIN_PASSWORD is set
-        run: |
-          if [ -z "${VITE_ADMIN_PASSWORD}" ]; then
-            echo "VITE_ADMIN_PASSWORD is missing"
-            exit 1
-          fi
-        env:
-          VITE_ADMIN_PASSWORD: ${{ secrets.VITE_ADMIN_PASSWORD }}
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
