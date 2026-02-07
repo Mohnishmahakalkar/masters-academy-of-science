@@ -5,8 +5,6 @@ import App from "./App";
 import { ContentProvider } from "./data/contentStore";
 import "./styles/tailwind.css";
 
-console.log("import.meta.env", import.meta.env);
-
 ReactDOM.createRoot(document.getElementById("app")!).render(
   <React.StrictMode>
     <HashRouter>
