@@ -31,7 +31,7 @@ const Login = () => {
       <div className="rounded-3xl border border-white/10 bg-white/5 p-8 shadow-card">
         <h1 className="text-2xl font-semibold text-ink">Admin Login</h1>
         <p className="mt-2 text-sm text-muted">
-          Use the password set in your .env file as VITE_ADMIN_PASSWORD.
+          Use the password set in the VITE_ADMIN_PASSWORD environment variable.
         </p>
         <form className="mt-6 space-y-4" onSubmit={handleSubmit}>
           <input
@@ -55,3 +55,4 @@ const Login = () => {
 };
 
 export default Login;
+
