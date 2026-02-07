@@ -27,6 +27,9 @@ jobs:
 
       - run: npm ci
       - run: npm run build
+        env:
+          VITE_ADMIN_PASSWORD: ${{ vars.VITE_ADMIN_PASSWORD }}
+          VITE_BASE: ${{ vars.VITE_BASE }}
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
