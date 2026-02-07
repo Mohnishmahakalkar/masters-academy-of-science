@@ -5,8 +5,6 @@ const About = () => {
   const { content } = useContent();
   const about = content.about;
 
-  console.log("import.meta.env", import.meta.env);
-
   return (
     <div className="mx-auto w-full max-w-6xl px-6">
       <Reveal>

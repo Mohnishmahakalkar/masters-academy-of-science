@@ -23,7 +23,7 @@ const Login = () => {
       return;
     }
 
-    setError("Invalid password or VITE_ADMIN_PASSWORD not set.");
+    setError("Invalid password");
   };
 
   return (
@@ -31,7 +31,7 @@ const Login = () => {
       <div className="rounded-3xl border border-white/10 bg-white/5 p-8 shadow-card">
         <h1 className="text-2xl font-semibold text-ink">Admin Login</h1>
         <p className="mt-2 text-sm text-muted">
-          Use the password set in the VITE_ADMIN_PASSWORD environment variable.
+          Please ask Mohnish for latest password 
         </p>
         <form className="mt-6 space-y-4" onSubmit={handleSubmit}>
           <input
