@@ -7,6 +7,7 @@ import "./styles/tailwind.css";
 
 ReactDOM.createRoot(document.getElementById("app")!).render(
   <React.StrictMode>
+    {console.log("import.meta.env", import.meta.env)}
     <HashRouter>
       <ContentProvider>
         <App />
