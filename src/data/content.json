@@ -1,0 +1,449 @@
+{
+  "site": {
+    "name": "Masters Academy of Science"
+  },
+  "nav": {
+    "links": [
+      { "label": "Programs", "to": "/programs" },
+      { "label": "Admissions", "to": "/admissions" },
+      { "label": "Contact", "to": "/contact" }
+    ],
+    "cta": {
+      "label": "Book a Tour",
+      "href": "mailto:info@masterscience.edu"
+    }
+  },
+  "hero": {
+    "badge": "Masters Academy of Science",
+    "headline": "Coaching that makes board exams feel possible, not painful.",
+    "highlight": "board exams",
+    "description": "Classes 8 to 12 with a clear plan: concept builders, weekly tests, mentor support, and practical exam strategy for CBSE and State boards.",
+    "primaryCta": {
+      "label": "Book a Free Class",
+      "href": "mailto:admissions@masterscience.edu"
+    },
+    "secondaryCta": {
+      "label": "Explore Programs",
+      "href": "#programs"
+    },
+    "stats": [
+      { "label": "Classes", "value": "8-12" },
+      { "label": "Boards", "value": "CBSE + State" },
+      { "label": "Rhythm", "value": "Weekly Tests" }
+    ],
+    "card": {
+      "title": "Live doubt support",
+      "time": "Today 6:30 PM",
+      "subtitleLeft": "Small batches for focus",
+      "subtitleRight": "Science + Math"
+    }
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "Where scientific rigor meets mentorship.",
+    "body": "Masters Academy of Science is a coaching institute for classes 8 to 12, supporting both State and CBSE boards. We focus on strong fundamentals, board exam preparation, and steady academic progress.",
+    "cards": [
+      {
+        "title": "Mission",
+        "body": "Build confident students with clear concepts, exam practice, and consistent mentoring."
+      },
+      {
+        "title": "Vision",
+        "body": "A trusted institute for board excellence and lifelong learning habits."
+      },
+      {
+        "title": "Culture",
+        "body": "We balance discipline with curiosity and give every student attention."
+      }
+    ],
+    "feature": {
+      "title": "Faculty focused on school success.",
+      "body": "Our teachers design board-focused notes, chapter tests, and revision plans that keep students ahead of the syllabus."
+    }
+  },
+  "stats": {
+    "items": [
+      { "label": "Board Score Improvement", "value": "95%" },
+      { "label": "Expert Faculty Members", "value": "30+" },
+      { "label": "Students Trained", "value": "2000+" },
+      { "label": "Mentor to Student Ratio", "value": "1:12" }
+    ]
+  },
+  "programsGrid": {
+    "badge": "Programs",
+    "title": "Courses crafted for classes 8 to 12.",
+    "items": [
+      {
+        "title": "Class 7-8 Foundation",
+        "detail": "Concept building, weekly worksheets, and smart revision for Science and Maths."
+      },
+      {
+        "title": "Class 9-10 Board Prep",
+        "detail": "State and CBSE board-focused notes, model papers, and chapter-wise tests."
+      },
+      {
+        "title": "Class 11-12 PCM Track",
+        "detail": "Physics, Chemistry, Maths with deep problem solving and exam practice."
+      },
+      {
+        "title": "Class 11-12 PCB Track",
+        "detail": "Physics, Chemistry, Biology with concept clarity and board scoring tips."
+      },
+      {
+        "title": "Doubt Solving Clinics",
+        "detail": "Daily doubt hours, one-on-one mentoring, and homework support."
+      },
+      {
+        "title": "Revision Bootcamps",
+        "detail": "High-yield recap sessions before exams with timed practice."
+      }
+    ]
+  },
+  "labs": {
+    "badge": "Learning",
+    "title": "Interactive classrooms and practical demos.",
+    "body": "Every batch learns through smart boards, practical demonstrations, and real-life examples. We blend concepts with application-based questions.",
+    "chips": ["Smart Classrooms", "Science Practicals", "Weekly Tests", "Parent Updates"],
+    "card": {
+      "title": "Board Exam Strategy",
+      "body": "Structured lesson plans, concept maps, and board-style practice to help students score higher with confidence.",
+      "cta": "View Study Plan"
+    }
+  },
+  "faculty": {
+    "badge": "Faculty",
+    "title": "Expert mentors for every subject.",
+    "items": [
+      {
+        "name": "Ajay Wakdikar",
+        "role": "Physics Mentor",
+        "detail": "Known for concept clarity and board-focused problem solving.",
+        "image": "/aja.png"
+      },
+      {
+        "name": "Neha Kulkarni",
+        "role": "Chemistry Mentor",
+        "detail": "Organic and physical chemistry simplified with daily practice.",
+        "image": "/aja.png"
+      },
+      {
+        "name": "Suresh Patil",
+        "role": "Mathematics Mentor",
+        "detail": "Step-by-step methods for algebra, geometry, and calculus.",
+        "image": "/aja.png"
+      },
+      {
+        "name": "Priya Deshmukh",
+        "role": "Biology Mentor",
+        "detail": "NCERT-focused explanations with smart diagrams and mnemonics.",
+        "image": "/aja.png"
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Outcomes",
+    "title": "Parents and students love the results.",
+    "items": [
+      {
+        "name": "Ayesha Rahman",
+        "role": "Class 10 Student",
+        "quote": "The weekly tests and notes made board preparation easy. My Science score jumped from 68 to 92."
+      },
+      {
+        "name": "Lucas Bennett",
+        "role": "Parent of Class 9 Student",
+        "quote": "Regular updates and doubt sessions helped my child stay consistent and confident."
+      },
+      {
+        "name": "Priya Nair",
+        "role": "Class 12 Student",
+        "quote": "The teachers explained difficult chapters clearly and the revision bootcamps were super helpful."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Admissions Open",
+    "title": "Ready to boost your board results?",
+    "body": "Speak with our team to find the right batch for your class and board.",
+    "primary": {
+      "label": "Talk to Admissions",
+      "href": "mailto:admissions@masterscience.edu"
+    },
+    "secondary": {
+      "label": "Request Information",
+      "href": "/contact"
+    }
+  },
+  "programsPage": {
+    "badge": "Programs",
+    "title": "Choose the right class and board track.",
+    "body": "State and CBSE aligned syllabi with concept clarity, worksheets, and regular mock exams.",
+    "tracks": [
+      "Class 7 Science + Maths",
+      "Class 8 Science + Maths",
+      "Class 9 Science + Maths",
+      "Class 10 Science + Maths",
+      "Class 11 PCM / PCB",
+      "Class 12 PCM / PCB"
+    ],
+    "trackDetail": "Weekly tests - Notes + worksheets - Doubt sessions.",
+    "feature": {
+      "title": "Batch timings that fit school schedules.",
+      "body": "Morning, evening, and weekend batches available for classes 8 to 12."
+    }
+  },
+  "admissionsPage": {
+    "badge": "Admissions",
+    "title": "Simple admission for classes 8 to 12.",
+    "body": "We understand your current level and place you in the right batch for steady progress and board success.",
+    "steps": [
+      "Submit an enquiry with class and board details.",
+      "Take a short diagnostic test.",
+      "Receive a personalized study plan and batch recommendation.",
+      "Complete admission with fee guidance and start date."
+    ],
+    "feature": {
+      "title": "Scholarships and flexible fee plans.",
+      "body": "Merit-based scholarships and installment options are available for eligible students.",
+      "cta": {
+        "label": "Speak with Finance",
+        "href": "mailto:finance@masterscience.edu"
+      }
+    }
+  },
+  "contactPage": {
+    "badge": "Contact",
+    "title": "Let's plan your academic goals.",
+    "body": "Reach out to schedule a demo class, ask about board-specific batches, or request the full brochure.",
+    "cards": [
+      {
+        "title": "Admissions Office",
+        "email": "admissions@masterscience.edu",
+        "phone": "+1 (555) 014-2099"
+      },
+      {
+        "title": "Academic Support",
+        "email": "support@masterscience.edu",
+        "phone": "+1 (555) 014-1888"
+      },
+      {
+        "title": "Demo Classes",
+        "email": "demo@masterscience.edu",
+        "phone": "+1 (555) 014-1444"
+      }
+    ],
+    "feature": {
+      "title": "Visit the campus for a demo class.",
+      "body": "85 Discovery Ave, Science Park, Innovation District. Open Monday to Saturday from 8:00 AM to 7:00 PM.",
+      "cta": {
+        "label": "Request a Tour",
+        "href": "mailto:info@masterscience.edu"
+      }
+    }
+  },
+  "footer": {
+    "headline": "Masters Academy of Science",
+    "body": "Training future innovators through research-driven learning, hands-on labs, and industry mentorship.",
+    "campus": {
+      "title": "Campus",
+      "lines": ["Science Park, Innovation District", "Open Mon-Sat - 8:00 AM to 7:00 PM"]
+    },
+    "connect": {
+      "title": "Connect",
+      "lines": ["info@masterscience.edu", "+1 (555) 014-2255"]
+    },
+    "copyright": "(c) 2026 Masters Academy of Science. All rights reserved.",
+    "credit": "Developed and Designed by",
+    "creditName": "Mohnish Mahakalkar",
+    "creditUrl": "https://www.linkedin.com/in/mohnishmahakalkar/"
+  },
+  "formulaBackground": {
+    "lines": [
+      {
+        "text": "Geometry - Algebra - Trigonometry - Physics",
+        "className": "absolute left-6 top-6 text-[10px] font-semibold uppercase tracking-[0.3em] text-white/60 sm:text-xs"
+      },
+      {
+        "text": "a^2 + b^2 = c^2",
+        "className": "absolute right-10 top-20 text-xs text-white/45 sm:text-sm"
+      },
+      {
+        "text": "sin^2(theta) + cos^2(theta) = 1",
+        "className": "absolute left-12 bottom-16 text-xs text-white/45 sm:text-sm"
+      },
+      {
+        "text": "y = mx + c",
+        "className": "absolute right-1/4 bottom-10 text-[10px] text-white/45 sm:text-xs"
+      },
+      {
+        "text": "F = ma",
+        "className": "absolute left-1/3 top-1/2 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "pi ~= 3.1416",
+        "className": "absolute left-1/4 top-32 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "(a + b)^2 = a^2 + 2ab + b^2",
+        "className": "absolute right-1/3 top-1/3 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "log10(xy) = log10(x) + log10(y)",
+        "className": "absolute left-1/2 bottom-24 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "V = IR",
+        "className": "absolute right-8 bottom-20 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "3x + 5 = 20",
+        "className": "absolute left-10 top-2/3 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "delta y / delta x = m",
+        "className": "absolute right-1/2 top-16 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "a^3 - b^3 = (a - b)(a^2 + ab + b^2)",
+        "className": "absolute left-2/3 top-10 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "x^2 - y^2 = (x - y)(x + y)",
+        "className": "absolute left-20 top-1/3 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "a^2 - b^2 = (a - b)(a + b)",
+        "className": "absolute right-16 top-1/2 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "x = (-b +/- sqrt(b^2 - 4ac)) / 2a",
+        "className": "absolute left-1/2 top-1/3 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "sigma = addition",
+        "className": "absolute right-1/3 top-12 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "perimeter = 2(l + w)",
+        "className": "absolute left-1/4 bottom-1/3 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "area = pi r^2",
+        "className": "absolute right-1/4 top-2/3 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "mean = (x1 + x2 + ... + xn) / n",
+        "className": "absolute left-8 bottom-10 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "speed = distance / time",
+        "className": "absolute right-20 bottom-28 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "work = F * d",
+        "className": "absolute left-1/3 bottom-8 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "density = m / V",
+        "className": "absolute right-1/2 bottom-6 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "P = V I",
+        "className": "absolute left-1/2 top-2/3 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "KE = 1/2 mv^2",
+        "className": "absolute right-1/5 top-1/4 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "PE = mgh",
+        "className": "absolute left-1/5 top-2/3 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "v = u + at",
+        "className": "absolute right-1/3 bottom-1/3 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "s = ut + 1/2 at^2",
+        "className": "absolute left-2/3 bottom-16 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "x_bar = sum(x) / n",
+        "className": "absolute right-10 bottom-6 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "mode = most frequent",
+        "className": "absolute left-10 top-1/2 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "median = middle value",
+        "className": "absolute right-1/2 top-1/4 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "a:b = c:d",
+        "className": "absolute left-1/3 top-24 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "ratio = part / whole",
+        "className": "absolute right-1/4 top-24 text-[10px] text-white/40 sm:text-xs"
+      },
+      {
+        "text": "HCF - LCM",
+        "className": "absolute left-1/2 bottom-1/2 text-[10px] text-white/35 sm:text-xs"
+      },
+      {
+        "text": "tan(theta) = sin(theta) / cos(theta)",
+        "className": "absolute right-1/6 bottom-1/2 text-[10px] text-white/35 sm:text-xs"
+      },
+      {
+        "text": "cos(0) = 1",
+        "className": "absolute left-1/6 top-1/4 text-[10px] text-white/35 sm:text-xs"
+      },
+      {
+        "text": "sin(90) = 1",
+        "className": "absolute right-1/6 top-3/4 text-[10px] text-white/35 sm:text-xs"
+      },
+      {
+        "text": "sqrt(a^2) = |a|",
+        "className": "absolute left-2/3 top-3/4 text-[10px] text-white/35 sm:text-xs"
+      }
+    ],
+    "rings": [
+      "absolute left-1/2 top-1/2 h-24 w-24 -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/10",
+      "absolute left-1/2 top-1/2 h-40 w-40 -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/10",
+      "absolute left-1/2 top-1/2 h-56 w-56 -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/10"
+    ],
+    "labels": [
+      {
+        "text": "Algebra",
+        "className": "absolute left-6 top-1/2 -rotate-90 text-xs font-semibold uppercase tracking-[0.3em] text-white/40"
+      },
+      {
+        "text": "Geometry",
+        "className": "absolute right-6 top-1/3 rotate-90 text-xs font-semibold uppercase tracking-[0.3em] text-white/40"
+      },
+      {
+        "text": "Science",
+        "className": "absolute left-1/2 top-12 -translate-x-1/2 text-xs font-semibold uppercase tracking-[0.3em] text-white/40"
+      },
+      {
+        "text": "Concepts",
+        "className": "absolute left-1/2 bottom-10 -translate-x-1/2 text-xs font-semibold uppercase tracking-[0.3em] text-white/40"
+      }
+    ],
+    "accents": [
+      {
+        "text": "x + y = z",
+        "className": "absolute left-8 top-2/3 -rotate-12 text-sm text-white/35"
+      },
+      {
+        "text": "a/b = c/d",
+        "className": "absolute right-12 bottom-1/3 rotate-12 text-base text-white/35"
+      },
+      {
+        "text": "2x + 3 = 9",
+        "className": "absolute left-1/2 top-1/4 -translate-x-1/2 rotate-6 text-lg text-white/35"
+      }
+    ]
+  }
+}

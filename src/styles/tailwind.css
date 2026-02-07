@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background: #0b1d2a;
+    color: #f8f7f2;
+    font-family: "Space Grotesk", system-ui, sans-serif;
+  }
+}
+
+@layer components {
+  .bg-balls {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    overflow: hidden;
+  }
+
+  .bg-ball {
+    position: absolute;
+    border-radius: 999px;
+    opacity: 0.3;
+    animation: float 16s ease-in-out infinite;
+    filter: blur(0.5px);
+  }
+
+  .bg-ball--one {
+    width: 220px;
+    height: 220px;
+    background: radial-gradient(circle, rgba(242, 160, 25, 0.35), rgba(242, 160, 25, 0));
+    top: -60px;
+    left: -40px;
+  }
+
+  .bg-ball--two {
+    width: 260px;
+    height: 260px;
+    background: radial-gradient(circle, rgba(44, 194, 179, 0.22), rgba(44, 194, 179, 0));
+    top: 20%;
+    right: -90px;
+    animation-delay: -4s;
+  }
+
+  .bg-ball--three {
+    width: 180px;
+    height: 180px;
+    background: radial-gradient(circle, rgba(245, 225, 184, 0.28), rgba(245, 225, 184, 0));
+    bottom: -60px;
+    left: 20%;
+    animation-delay: -8s;
+  }
+
+  .bg-ball--four {
+    width: 140px;
+    height: 140px;
+    background: radial-gradient(circle, rgba(255, 195, 93, 0.18), rgba(255, 195, 93, 0));
+    bottom: 15%;
+    right: 15%;
+    animation-delay: -12s;
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(22px);
+  }
+}
