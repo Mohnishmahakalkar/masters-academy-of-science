@@ -21,7 +21,7 @@ const App = () => {
         <FormulaBackground />
       </div>
       <ScrollToTop />
-      <TopNav />
+      <TopNav /> 
       <main className="space-y-12 pb-16">
         <Routes>
           <Route path="/" element={<Home />} />
